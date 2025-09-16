@@ -1,0 +1,1 @@
+# théorie pour N1, N2, PA12, PA20 et PE40
