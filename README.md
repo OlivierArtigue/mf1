@@ -26,4 +26,11 @@
 
 ## Resources
 * [Livret pédagogiques](resources/livret-peda-mf1.pdf)
+* [MFT MF1](resources/mf1.pdf)
+
+## Sujets
+* [Théorie](sujets/Sujets-MF1-Theorie-2025.pdf)
+* [Pratique](sujets/Sujets-MF1-Pratique-2025.pdf)
+* [Organisation](sujets/Sujets-MF1-Organisationnelle-2025.pdf)
+
 
