@@ -7,7 +7,7 @@ Les cursus:
 * PA20
 * N2
 
-### PE12
+## PE12
 * Détermination du contenu
   * Acquis de départ
   * Attendu à la fin
@@ -17,7 +17,7 @@ Les cursus:
   * Documents
 * Application/Test sur sujets d'examen
 
-### N1
+## N1
 * Détermination du contenu
   * Acquis de départ
   * Attendu à la fin
@@ -27,7 +27,7 @@ Les cursus:
   * Documents
 * Application/Test sur sujets d'examen
 
-### PE40
+## PE40
 * Détermination du contenu
   * Acquis de départ
   * Attendu à la fin
@@ -37,7 +37,7 @@ Les cursus:
   * Documents
 * Application/Test sur sujets d'examen
 
-### PA20
+## PA20
 * Détermination du contenu
   * Acquis de départ
   * Attendu à la fin
@@ -47,7 +47,7 @@ Les cursus:
   * Documents
 * Application/Test sur sujets d'examen
 
-### N2
+## N2
 * Détermination du contenu
   * Acquis de départ
   * Attendu à la fin
