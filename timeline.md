@@ -4,6 +4,7 @@
 * [Outils pédagogiques](modules/outils.md)
 * [l'organisation et sécurisation de l'activité](modules/orga-secu.md)
 * [IPD](modules/ipd.md)
+* Fosse
 
 * Stage initial
   * [Cadre réglementaire](modules/reglementaire.md)
@@ -22,6 +23,7 @@
 * [l'organisation des cursus de plongeurs dans les prérogatives du MF1](modules/cursus.md)
 * [IPD](modules/ipd.md)
 * [l'organisation et sécurisation de l'activité](modules/orga-secu.md)
+* Sorties en Mer
   
 ## Troisième trimestre 2026
 * [pratiquede 6 à 20m](modules/pratiques20-40.md)
@@ -33,6 +35,7 @@
 * [théorie pour N1, N2, PA12, PA20 et PE40](modules/theorien1-n2.md)
 * [l'organisation des cursus de plongeurs dans les prérogatives du MF1](modules/cursus.md)
 * [IPD](modules/ipd.md)
+* Fosse
 
 ## Premier trimestre 2027
 * [pratique de 20 à 40m](modules/pratiques20-40.md)
@@ -45,6 +48,7 @@
 * [l'organisation des cursus de plongeurs dans les prérogatives du MF1](modules/cursus.md)
 * [IPD](modules/ipd.md)
 * [l'organisation et sécurisation de l'activité](modules/orga-secu.md)
+* Sorties en Mer
   
 ## Troisième trimestre 2027
 * [pratique de 20 à 40m](modules/pratiques20-40.md)

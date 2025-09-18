@@ -30,7 +30,7 @@ Ref: [livre pédagogique](resources/livret-peda-mf1.pdf)
 * 1 sur l'organisation des cursus de plongeurs dans les prérogatives du MF1
   * 4 expériences
 
-### Compléments
+## Compléments
 * Examen Niveau 4 (pas obligatoire)
 * IPD (obligatoire)
 

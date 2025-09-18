@@ -4,6 +4,11 @@
 * [Cursus](cursus.md)
 * [Timeline](timeline.md)
 
+### Questions
+* Quid du stage en situation ?
+* Quid du stage examen N4
+* Dispensé "Pratique 0-6m", quid des sujets ?
+
 ## Modules
 * [Outils pédagogiques](modules/outils.md)
 * [Cadre réglementaire](modules/reglementaire.md)
