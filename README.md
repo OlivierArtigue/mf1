@@ -21,6 +21,9 @@
 ## Resources
 * [Livret pédagogiques](resources/livret-peda-mf1.pdf)
 * [MFT MF1](resources/mf1.pdf)
+* [N1 - PE20](resources/n1-pe20.pdf)
+* [N2 - PA20 - PE40](resources/n2-pa20-pe40.pdf)
+* [N3 - PA40 - PE60 - PA60](resources/n3-pa40-pe60-pa60.pdf)
 
 ## Sujets
 * [Théorie](sujets/Sujets-MF1-Theorie-2025.pdf)
