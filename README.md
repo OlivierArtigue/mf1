@@ -4,11 +4,6 @@
 * [Cursus](cursus.md)
 * [Timeline](timeline.md)
 
-### Questions
-* Quid du stage en situation ?
-* Quid du stage examen N4
-* Dispensé "Pratique 0-6m", quid des sujets ?
-
 ## Modules
 * [Outils pédagogiques](modules/outils.md)
 * [Cadre réglementaire](modules/reglementaire.md)
@@ -22,7 +17,6 @@
 * [IPD](modules/ipd.md)
 * RIFAP (Ok)
 * Permis bateau (Ok)
-* Complémentaire 20-40m ???
 
 ## Resources
 * [Livret pédagogiques](resources/livret-peda-mf1.pdf)

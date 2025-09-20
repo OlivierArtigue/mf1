@@ -1,4 +1,4 @@
-# Pratique de 0 à 6m (Dispensé car E2)
+# Pratique de 0 à 6m
 
 ## Utiliser outils pédagogiques
 * Concevoir

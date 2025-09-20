@@ -16,6 +16,7 @@ Ref: [livre pédagogique](resources/livret-peda-mf1.pdf)
 * Organiser un cursus de formation
 
 ## Stage en situation
+* Lieu : LBSC
 
 ### Modules
 * 3 de pratique
